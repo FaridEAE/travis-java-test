@@ -4,5 +4,5 @@ after_success: echo "I'm done thx"
 
 notifications:
   email:
-   - karla.77738@hotmail.com
+   - ksinailopez@gmail.com
   on_success: always # default: change
